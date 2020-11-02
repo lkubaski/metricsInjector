@@ -1,0 +1,13 @@
+{
+  "name": "MetricsInjector",
+  "main": "src/controller/login.html",
+  "node-main": "src/controller/node-main.js",
+  "scripts": {
+    "start": "./nwjs.app/Contents/MacOS/nwjs "
+  },
+  "dependencies": {
+    "@types/node": "^10.9.4",
+    "async-await-parallel": "^1.0.0",
+    "got": "^9.2.1"
+  }
+}

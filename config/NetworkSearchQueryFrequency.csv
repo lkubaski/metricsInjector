@@ -1,0 +1,96 @@
+AvgNumResults,CountQueries,HasResults,NetworkUserType,Scope   ,SearchTerm               ,UsedDeflection
+0            ,2           ,FALSE     ,Undefined      ,FeedPost,coffee grinder           ,FALSE
+2.23         ,3           ,TRUE      ,Undefined      ,FeedPost,sustainable fairtrade    ,TRUE
+0            ,2           ,FALSE     ,Undefined      ,FeedPost,sustainable fairtrade    ,FALSE
+2.12         ,3           ,TRUE      ,Undefined      ,FeedPost,Clean Perfect Cup        ,TRUE
+6.17         ,2           ,TRUE      ,Undefined      ,FeedPost,carbon fiber french press,TRUE
+0            ,2           ,FALSE     ,Partner        ,All     ,coffee grinder           ,FALSE
+10.08        ,2           ,TRUE      ,Partner        ,All     ,sustainable fairtrade    ,TRUE
+6.62         ,3           ,TRUE      ,Partner        ,All     ,Clean Perfect Cup        ,TRUE
+4.01         ,2           ,TRUE      ,Partner        ,All     ,carbon fiber french press,TRUE
+4.61         ,2           ,TRUE      ,Partner        ,FeedPost,coffee grinder           ,TRUE
+0            ,2           ,FALSE     ,Partner        ,FeedPost,coffee grinder           ,FALSE
+12.09        ,1           ,TRUE      ,Partner        ,FeedPost,sustainable fairtrade    ,TRUE
+0            ,3           ,FALSE     ,Partner        ,FeedPost,sustainable fairtrade    ,FALSE
+0.12         ,2           ,TRUE      ,Partner        ,FeedPost,Clean Perfect Cup        ,TRUE
+2.84         ,2           ,TRUE      ,Partner        ,FeedPost,carbon fiber french press,TRUE
+15.07        ,3           ,TRUE      ,Customer       ,Accounts,coffee grinder           ,TRUE
+0            ,3           ,FALSE     ,Customer       ,Accounts,coffee grinder           ,FALSE
+15.98        ,1           ,TRUE      ,Customer       ,Accounts,sustainable fairtrade    ,TRUE
+0            ,1           ,FALSE     ,Customer       ,Accounts,sustainable fairtrade    ,FALSE
+4.68         ,2           ,TRUE      ,Customer       ,Accounts,Clean Perfect Cup        ,TRUE
+8.16         ,2           ,TRUE      ,Customer       ,Accounts,carbon fiber french press,TRUE
+9.45         ,1           ,TRUE      ,Customer       ,All     ,coffee grinder           ,TRUE
+0            ,2           ,FALSE     ,Customer       ,All     ,coffee grinder           ,FALSE
+5.23         ,1           ,TRUE      ,Customer       ,All     ,sustainable fairtrade    ,TRUE
+0            ,1           ,FALSE     ,Customer       ,All     ,sustainable fairtrade    ,FALSE
+6            ,3           ,TRUE      ,Customer       ,All     ,carbon fiber french press,TRUE
+6.58         ,2           ,TRUE      ,Customer       ,FeedPost,coffee grinder           ,TRUE
+0            ,3           ,FALSE     ,Customer       ,FeedPost,coffee grinder           ,FALSE
+12           ,3           ,TRUE      ,Customer       ,FeedPost,sustainable fairtrade    ,TRUE
+0            ,2           ,FALSE     ,Customer       ,FeedPost,sustainable fairtrade    ,FALSE
+9.02         ,2           ,TRUE      ,Customer       ,FeedPost,Clean Perfect Cup        ,TRUE
+7.51         ,1           ,TRUE      ,Customer       ,FeedPost,carbon fiber french press,TRUE
+1.87         ,1           ,TRUE      ,Undefined      ,Accounts,sustainable fairtrade    ,TRUE
+0            ,2           ,FALSE     ,Undefined      ,Accounts,sustainable fairtrade    ,FALSE
+2.64         ,1           ,TRUE      ,Undefined      ,Accounts,carbon fiber french press,TRUE
+0            ,1           ,FALSE     ,Internal       ,Accounts,coffee grinder           ,FALSE
+7.52         ,2           ,TRUE      ,Internal       ,Accounts,sustainable fairtrade    ,TRUE
+0            ,1           ,FALSE     ,Internal       ,Accounts,sustainable fairtrade    ,FALSE
+2.83         ,2           ,TRUE      ,Internal       ,Accounts,Clean Perfect Cup        ,TRUE
+9.49         ,1           ,TRUE      ,Internal       ,Accounts,carbon fiber french press,TRUE
+4.18         ,1           ,TRUE      ,Internal       ,All     ,coffee grinder           ,TRUE
+0            ,2           ,FALSE     ,Internal       ,All     ,coffee grinder           ,FALSE
+9.87         ,1           ,TRUE      ,Internal       ,All     ,sustainable fairtrade    ,TRUE
+1.5          ,2           ,TRUE      ,Internal       ,All     ,Clean Perfect Cup        ,TRUE
+0.28         ,2           ,TRUE      ,Internal       ,All     ,carbon fiber french press,TRUE
+77.95        ,1           ,TRUE      ,Internal       ,FeedPost,coffee grinder           ,TRUE
+0            ,3           ,FALSE     ,Internal       ,FeedPost,coffee grinder           ,FALSE
+10.02        ,2           ,TRUE      ,Internal       ,FeedPost,sustainable fairtrade    ,TRUE
+5.61         ,4           ,TRUE      ,Internal       ,FeedPost,Clean Perfect Cup        ,TRUE
+4.74         ,3           ,TRUE      ,Internal       ,FeedPost,carbon fiber french press,TRUE
+8.96         ,1           ,TRUE      ,Internal       ,Accounts,coffee grinder           ,TRUE
+9.8          ,3           ,TRUE      ,Partner        ,Accounts,coffee grinder           ,TRUE
+0            ,2           ,FALSE     ,Partner        ,Accounts,coffee grinder           ,FALSE
+11.19        ,2           ,TRUE      ,Partner        ,Accounts,sustainable fairtrade    ,TRUE
+0            ,3           ,FALSE     ,Partner        ,Accounts,sustainable fairtrade    ,FALSE
+0.29         ,1           ,TRUE      ,Partner        ,Accounts,Clean Perfect Cup        ,TRUE
+2.19         ,2           ,TRUE      ,Partner        ,Accounts,carbon fiber french press,TRUE
+67.87        ,2           ,TRUE      ,Partner        ,All     ,coffee grinder           ,TRUE
+3.34         ,3           ,TRUE      ,Undefined      ,All     ,coffee grinder           ,TRUE
+0            ,2           ,FALSE     ,Undefined      ,All     ,coffee grinder           ,FALSE
+18.22        ,3           ,TRUE      ,Undefined      ,All     ,sustainable fairtrade    ,TRUE
+0            ,2           ,FALSE     ,Undefined      ,All     ,sustainable fairtrade    ,FALSE
+4.02         ,3           ,TRUE      ,Undefined      ,All     ,Clean Perfect Cup        ,TRUE
+6.16         ,2           ,TRUE      ,Undefined      ,All     ,carbon fiber french press,TRUE
+11.12        ,1           ,TRUE      ,Undefined      ,FeedPost,coffee grinder           ,TRUE
+13.68        ,1           ,TRUE      ,Partner        ,Accounts,dark roast decaf         ,TRUE
+0            ,3           ,FALSE     ,Partner        ,Accounts,dark roast decaf         ,FALSE
+0            ,1           ,FALSE     ,Partner        ,All     ,sustainable fairtrade    ,FALSE
+13.52        ,2           ,TRUE      ,Partner        ,All     ,dark roast decaf         ,TRUE
+0            ,3           ,FALSE     ,Partner        ,All     ,dark roast decaf         ,FALSE
+17.49        ,2           ,TRUE      ,Undefined      ,All     ,dark roast decaf         ,TRUE
+0            ,1           ,FALSE     ,Undefined      ,All     ,dark roast decaf         ,FALSE
+6.58         ,2           ,TRUE      ,Undefined      ,FeedPost,dark roast decaf         ,TRUE
+0            ,2           ,FALSE     ,Undefined      ,FeedPost,dark roast decaf         ,FALSE
+4.7          ,5           ,FALSE     ,Undefined      ,All     ,carbon fiber             ,FALSE
+5.1          ,5           ,FALSE     ,Undefined      ,All     ,carbon fiber french press,FALSE
+4.43         ,3           ,TRUE      ,Internal       ,Accounts,dark roast decaf         ,TRUE
+10.48        ,3           ,TRUE      ,Partner        ,FeedPost,dark roast decaf         ,TRUE
+0            ,1           ,FALSE     ,Partner        ,FeedPost,dark roast decaf         ,FALSE
+4.34         ,3           ,TRUE      ,Customer       ,Accounts,dark roast decaf         ,TRUE
+8.23         ,2           ,TRUE      ,Customer       ,All     ,dark roast decaf         ,TRUE
+0            ,3           ,FALSE     ,Customer       ,All     ,dark roast decaf         ,FALSE
+10.7         ,3           ,TRUE      ,Customer       ,FeedPost,dark roast decaf         ,TRUE
+0            ,3           ,FALSE     ,Customer       ,FeedPost,dark roast decaf         ,FALSE
+12.13        ,1           ,TRUE      ,Undefined      ,Accounts,Clean Perfect Cup        ,TRUE
+9.5          ,3           ,TRUE      ,Undefined      ,Accounts,dark roast decaf         ,TRUE
+0            ,1           ,FALSE     ,Undefined      ,Accounts,dark roast decaf         ,FALSE
+0            ,3           ,FALSE     ,Internal       ,All     ,sustainable fairtrade    ,FALSE
+0.15         ,3           ,TRUE      ,Internal       ,All     ,dark roast decaf         ,TRUE
+0            ,2           ,FALSE     ,Internal       ,All     ,dark roast decaf         ,FALSE
+0            ,3           ,FALSE     ,Internal       ,FeedPost,sustainable fairtrade    ,FALSE
+19.65        ,2           ,TRUE      ,Internal       ,FeedPost,dark roast decaf         ,TRUE
+0            ,3           ,FALSE     ,Internal       ,FeedPost,dark roast decaf         ,FALSE
+0            ,3           ,FALSE     ,Internal       ,Accounts,dark roast decaf         ,FALSE
+0            ,2           ,FALSE     ,Customer       ,Accounts,dark roast decaf         ,FALSE

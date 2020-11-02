@@ -1,0 +1,39 @@
+/* https://stackoverflow.com/questions/7742655/change-mouse-cursor-for-whole-page */
+/* because "document.body.style.cursor = cursor" will not take all the sub-fields into account */
+
+/* https://stackoverflow.com/questions/6654958/make-body-have-100-of-the-browser-height */
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+}
+
+/* https://stackoverflow.com/questions/192900/wait-cursor-over-entire-html-page */
+.wait, .wait * {
+    cursor: wait !important;
+    /*background-color: #e91e63;*/
+}
+
+/********************/
+/* W3.CSS overrides */
+/********************/
+
+h6 {
+    margin: 5px 0;
+}
+
+.w3-input {
+    margin: 2px;
+    padding: 2px;
+}
+
+.w3-button {
+    margin: 2px;
+    padding: 4px;
+}
+
+.w3-modal {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}

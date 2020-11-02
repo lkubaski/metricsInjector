@@ -1,0 +1,181 @@
+NetworkUserDescNRecType,NetworkUserTypeDescriptor,ParentType        ,PostCount,CommentCount,NewQuestionCount,NewAnswerCount,NewBestAnswerCount
+i005                   ,Internal                 ,User              ,40       ,75          ,20              ,60            ,5
+i0F9                   ,Internal                 ,CollaborationGroup,12       ,12          ,40              ,120           ,25
+p005                   ,Partner                  ,User              ,60       ,180         ,30              ,90            ,15
+p0F9                   ,Partner                  ,CollaborationGroup,75       ,225         ,50              ,150           ,35
+c005                   ,Customer                 ,User              ,55       ,165         ,40              ,120           ,25
+c0F9                   ,Customer                 ,CollaborationGroup,20       ,100         ,100             ,300           ,85
+i005                   ,Internal                 ,User              ,40       ,75          ,22              ,66            ,7
+i0F9                   ,Internal                 ,CollaborationGroup,12       ,12          ,44              ,132           ,29
+p005                   ,Partner                  ,User              ,16       ,140         ,33              ,99            ,18
+p0F9                   ,Partner                  ,CollaborationGroup,40       ,225         ,55              ,165           ,40
+c005                   ,Customer                 ,User              ,56       ,165         ,44              ,132           ,29
+c0F9                   ,Customer                 ,CollaborationGroup,20       ,100         ,110             ,330           ,95
+i005                   ,Internal                 ,User              ,40       ,76          ,24              ,72            ,9
+i0F9                   ,Internal                 ,CollaborationGroup,12       ,12          ,48              ,144           ,33
+p005                   ,Partner                  ,User              ,16       ,141         ,36              ,108           ,21
+p0F9                   ,Partner                  ,CollaborationGroup,40       ,227         ,61              ,183           ,46
+c005                   ,Customer                 ,User              ,57       ,167         ,48              ,144           ,33
+c0F9                   ,Customer                 ,CollaborationGroup,20       ,101         ,121             ,363           ,106
+i005                   ,Internal                 ,User              ,40       ,77          ,26              ,78            ,11
+i0F9                   ,Internal                 ,CollaborationGroup,12       ,12          ,53              ,159           ,38
+p005                   ,Partner                  ,User              ,16       ,142         ,40              ,120           ,25
+p0F9                   ,Partner                  ,CollaborationGroup,40       ,229         ,67              ,201           ,52
+c005                   ,Customer                 ,User              ,58       ,169         ,53              ,159           ,38
+c0F9                   ,Customer                 ,CollaborationGroup,20       ,102         ,133             ,399           ,118
+i005                   ,Internal                 ,User              ,40       ,78          ,20              ,60            ,5
+i0F9                   ,Internal                 ,CollaborationGroup,40       ,12          ,40              ,120           ,25
+p005                   ,Partner                  ,User              ,16       ,143         ,30              ,90            ,15
+p0F9                   ,Partner                  ,CollaborationGroup,40       ,50          ,50              ,150           ,35
+c005                   ,Customer                 ,User              ,59       ,171         ,40              ,120           ,25
+c0F9                   ,Customer                 ,CollaborationGroup,48       ,103         ,100             ,300           ,85
+i005                   ,Internal                 ,User              ,40       ,79          ,24              ,72            ,9
+i0F9                   ,Internal                 ,CollaborationGroup,40       ,12          ,48              ,144           ,33
+p005                   ,Partner                  ,User              ,16       ,144         ,36              ,108           ,21
+p0F9                   ,Partner                  ,CollaborationGroup,40       ,51          ,60              ,180           ,45
+c005                   ,Customer                 ,User              ,60       ,173         ,48              ,144           ,33
+c0F9                   ,Customer                 ,CollaborationGroup,48       ,104         ,120             ,360           ,105
+i005                   ,Internal                 ,User              ,40       ,80          ,24              ,72            ,9
+i0F9                   ,Internal                 ,CollaborationGroup,40       ,12          ,48              ,144           ,33
+p005                   ,Partner                  ,User              ,16       ,145         ,36              ,108           ,21
+p0F9                   ,Partner                  ,CollaborationGroup,40       ,52          ,61              ,183           ,46
+c005                   ,Customer                 ,User              ,61       ,175         ,48              ,144           ,33
+c0F9                   ,Customer                 ,CollaborationGroup,48       ,105         ,121             ,363           ,106
+i005                   ,Internal                 ,User              ,40       ,81          ,24              ,72            ,9
+i0F9                   ,Internal                 ,CollaborationGroup,40       ,12          ,48              ,144           ,33
+p005                   ,Partner                  ,User              ,16       ,146         ,36              ,108           ,21
+p0F9                   ,Partner                  ,CollaborationGroup,40       ,53          ,62              ,186           ,47
+c005                   ,Customer                 ,User              ,62       ,177         ,48              ,144           ,33
+c0F9                   ,Customer                 ,CollaborationGroup,48       ,106         ,122             ,366           ,107
+i005                   ,Internal                 ,User              ,40       ,82          ,24              ,72            ,9
+i0F9                   ,Internal                 ,CollaborationGroup,40       ,12          ,48              ,144           ,33
+p005                   ,Partner                  ,User              ,16       ,147         ,36              ,108           ,21
+p0F9                   ,Partner                  ,CollaborationGroup,40       ,54          ,63              ,189           ,48
+c005                   ,Customer                 ,User              ,63       ,179         ,48              ,144           ,33
+c0F9                   ,Customer                 ,CollaborationGroup,48       ,107         ,123             ,369           ,108
+i005                   ,Internal                 ,User              ,40       ,83          ,24              ,72            ,9
+i0F9                   ,Internal                 ,CollaborationGroup,40       ,12          ,48              ,144           ,33
+p005                   ,Partner                  ,User              ,16       ,148         ,36              ,108           ,21
+p0F9                   ,Partner                  ,CollaborationGroup,40       ,55          ,64              ,192           ,49
+c005                   ,Customer                 ,User              ,64       ,181         ,48              ,144           ,33
+c0F9                   ,Customer                 ,CollaborationGroup,48       ,108         ,124             ,372           ,109
+i005                   ,Internal                 ,User              ,40       ,84          ,24              ,72            ,9
+i0F9                   ,Internal                 ,CollaborationGroup,40       ,12          ,48              ,144           ,33
+p005                   ,Partner                  ,User              ,16       ,149         ,36              ,108           ,21
+p0F9                   ,Partner                  ,CollaborationGroup,40       ,56          ,65              ,195           ,50
+c005                   ,Customer                 ,User              ,65       ,183         ,48              ,144           ,33
+c0F9                   ,Customer                 ,CollaborationGroup,48       ,109         ,125             ,375           ,110
+i005                   ,Internal                 ,User              ,51       ,85          ,24              ,72            ,9
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,48              ,144           ,33
+p005                   ,Partner                  ,User              ,51       ,150         ,36              ,108           ,21
+p0F9                   ,Partner                  ,CollaborationGroup,66       ,57          ,66              ,198           ,51
+c005                   ,Customer                 ,User              ,45       ,185         ,48              ,144           ,33
+c0F9                   ,Customer                 ,CollaborationGroup,190      ,110         ,126             ,378           ,111
+i005                   ,Internal                 ,User              ,52       ,86          ,20              ,60            ,5
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,40              ,120           ,25
+p005                   ,Partner                  ,User              ,52       ,152         ,30              ,90            ,15
+p0F9                   ,Partner                  ,CollaborationGroup,67       ,58          ,50              ,150           ,35
+c005                   ,Customer                 ,User              ,45       ,187         ,40              ,120           ,25
+c0F9                   ,Customer                 ,CollaborationGroup,267      ,657         ,100             ,300           ,85
+i005                   ,Internal                 ,User              ,53       ,87          ,21              ,63            ,6
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,42              ,126           ,27
+p005                   ,Partner                  ,User              ,53       ,154         ,31              ,93            ,16
+p0F9                   ,Partner                  ,CollaborationGroup,68       ,59          ,50              ,150           ,35
+c005                   ,Customer                 ,User              ,45       ,189         ,40              ,120           ,25
+c0F9                   ,Customer                 ,CollaborationGroup,268      ,664         ,100             ,300           ,85
+i005                   ,Internal                 ,User              ,54       ,88          ,27              ,81            ,12
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,55              ,165           ,40
+p005                   ,Partner                  ,User              ,54       ,156         ,40              ,120           ,25
+p0F9                   ,Partner                  ,CollaborationGroup,69       ,60          ,65              ,195           ,50
+c005                   ,Customer                 ,User              ,45       ,191         ,52              ,156           ,37
+c0F9                   ,Customer                 ,CollaborationGroup,269      ,671         ,130             ,390           ,115
+i005                   ,Internal                 ,User              ,55       ,89          ,35              ,105           ,20
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,72              ,216           ,57
+p005                   ,Partner                  ,User              ,55       ,158         ,52              ,156           ,37
+p0F9                   ,Partner                  ,CollaborationGroup,70       ,61          ,85              ,255           ,70
+c005                   ,Customer                 ,User              ,45       ,193         ,68              ,204           ,53
+c0F9                   ,Customer                 ,CollaborationGroup,270      ,678         ,169             ,507           ,154
+i005                   ,Internal                 ,User              ,56       ,90          ,39              ,117           ,24
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,79              ,237           ,64
+p005                   ,Partner                  ,User              ,56       ,160         ,57              ,171           ,42
+p0F9                   ,Partner                  ,CollaborationGroup,71       ,62          ,94              ,282           ,79
+c005                   ,Customer                 ,User              ,45       ,195         ,75              ,225           ,60
+c0F9                   ,Customer                 ,CollaborationGroup,271      ,685         ,186             ,558           ,171
+i005                   ,Internal                 ,User              ,57       ,91          ,30              ,90            ,15
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,70              ,210           ,55
+p005                   ,Partner                  ,User              ,57       ,162         ,50              ,150           ,35
+p0F9                   ,Partner                  ,CollaborationGroup,72       ,63          ,80              ,240           ,65
+c005                   ,Customer                 ,User              ,45       ,197         ,70              ,210           ,55
+c0F9                   ,Customer                 ,CollaborationGroup,272      ,692         ,160             ,480           ,145
+i005                   ,Internal                 ,User              ,58       ,92          ,33              ,99            ,18
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,77              ,231           ,62
+p005                   ,Partner                  ,User              ,58       ,164         ,55              ,165           ,40
+p0F9                   ,Partner                  ,CollaborationGroup,73       ,64          ,88              ,264           ,73
+c005                   ,Customer                 ,User              ,45       ,199         ,77              ,231           ,62
+c0F9                   ,Customer                 ,CollaborationGroup,273      ,699         ,176             ,528           ,161
+i005                   ,Internal                 ,User              ,59       ,93          ,36              ,108           ,21
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,85              ,255           ,70
+p005                   ,Partner                  ,User              ,59       ,166         ,61              ,183           ,46
+p0F9                   ,Partner                  ,CollaborationGroup,74       ,65          ,97              ,291           ,82
+c005                   ,Customer                 ,User              ,45       ,201         ,85              ,255           ,70
+c0F9                   ,Customer                 ,CollaborationGroup,274      ,706         ,194             ,582           ,179
+i005                   ,Internal                 ,User              ,60       ,94          ,40              ,120           ,25
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,94              ,282           ,79
+p005                   ,Partner                  ,User              ,60       ,168         ,67              ,201           ,52
+p0F9                   ,Partner                  ,CollaborationGroup,75       ,66          ,107             ,321           ,92
+c005                   ,Customer                 ,User              ,45       ,203         ,94              ,282           ,79
+c0F9                   ,Customer                 ,CollaborationGroup,275      ,713         ,213             ,639           ,198
+i005                   ,Internal                 ,User              ,61       ,95          ,44              ,132           ,29
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,103             ,309           ,88
+p005                   ,Partner                  ,User              ,61       ,170         ,74              ,222           ,59
+p0F9                   ,Partner                  ,CollaborationGroup,76       ,67          ,118             ,354           ,103
+c005                   ,Customer                 ,User              ,45       ,205         ,103             ,309           ,88
+c0F9                   ,Customer                 ,CollaborationGroup,276      ,720         ,234             ,702           ,219
+i005                   ,Internal                 ,User              ,62       ,96          ,48              ,144           ,33
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,113             ,339           ,98
+p005                   ,Partner                  ,User              ,62       ,172         ,81              ,243           ,66
+p0F9                   ,Partner                  ,CollaborationGroup,77       ,68          ,130             ,390           ,115
+c005                   ,Customer                 ,User              ,45       ,207         ,113             ,339           ,98
+c0F9                   ,Customer                 ,CollaborationGroup,277      ,727         ,257             ,771           ,242
+i005                   ,Internal                 ,User              ,63       ,97          ,35              ,105           ,20
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,100             ,300           ,85
+p005                   ,Partner                  ,User              ,63       ,174         ,70              ,210           ,55
+p0F9                   ,Partner                  ,CollaborationGroup,78       ,69          ,110             ,330           ,95
+c005                   ,Customer                 ,User              ,45       ,209         ,100             ,300           ,85
+c0F9                   ,Customer                 ,CollaborationGroup,278      ,734         ,220             ,660           ,205
+i005                   ,Internal                 ,User              ,64       ,98          ,39              ,117           ,24
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,110             ,330           ,95
+p005                   ,Partner                  ,User              ,64       ,176         ,77              ,231           ,62
+p0F9                   ,Partner                  ,CollaborationGroup,79       ,70          ,121             ,363           ,106
+c005                   ,Customer                 ,User              ,45       ,211         ,110             ,330           ,95
+c0F9                   ,Customer                 ,CollaborationGroup,279      ,741         ,242             ,726           ,227
+i005                   ,Internal                 ,User              ,65       ,99          ,43              ,129           ,28
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,121             ,363           ,106
+p005                   ,Partner                  ,User              ,65       ,178         ,85              ,255           ,70
+p0F9                   ,Partner                  ,CollaborationGroup,80       ,71          ,133             ,399           ,118
+c005                   ,Customer                 ,User              ,45       ,213         ,121             ,363           ,106
+c0F9                   ,Customer                 ,CollaborationGroup,280      ,748         ,266             ,798           ,251
+i005                   ,Internal                 ,User              ,66       ,100         ,47              ,141           ,32
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,133             ,399           ,118
+p005                   ,Partner                  ,User              ,66       ,180         ,94              ,282           ,79
+p0F9                   ,Partner                  ,CollaborationGroup,81       ,72          ,146             ,438           ,131
+c005                   ,Customer                 ,User              ,45       ,215         ,133             ,399           ,118
+c0F9                   ,Customer                 ,CollaborationGroup,281      ,755         ,293             ,879           ,278
+i005                   ,Internal                 ,User              ,67       ,101         ,52              ,156           ,37
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,146             ,438           ,131
+p005                   ,Partner                  ,User              ,67       ,182         ,103             ,309           ,88
+p0F9                   ,Partner                  ,CollaborationGroup,82       ,73          ,161             ,483           ,146
+c005                   ,Customer                 ,User              ,45       ,217         ,146             ,438           ,131
+c0F9                   ,Customer                 ,CollaborationGroup,282      ,763         ,322             ,966           ,307
+i005                   ,Internal                 ,User              ,68       ,102         ,62              ,186           ,47
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,175             ,525           ,160
+p005                   ,Partner                  ,User              ,68       ,184         ,124             ,372           ,109
+p0F9                   ,Partner                  ,CollaborationGroup,83       ,74          ,193             ,579           ,178
+c005                   ,Customer                 ,User              ,45       ,219         ,175             ,525           ,160
+c0F9                   ,Customer                 ,CollaborationGroup,283      ,771         ,386             ,1158          ,371
+i005                   ,Internal                 ,User              ,69       ,103         ,68              ,204           ,53
+i0F9                   ,Internal                 ,CollaborationGroup,8        ,12          ,193             ,579           ,178
+p005                   ,Partner                  ,User              ,69       ,186         ,136             ,408           ,121
+p0F9                   ,Partner                  ,CollaborationGroup,84       ,75          ,212             ,636           ,197
+c005                   ,Customer                 ,User              ,45       ,221         ,193             ,579           ,178
+c0F9                   ,Customer                 ,CollaborationGroup,284      ,779         ,425             ,1275          ,410

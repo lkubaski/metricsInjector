@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>[TITLE]</title>
+    <link rel="stylesheet" href="../../css/w3.css">
+    <link rel="stylesheet" href="../../css/nw.css">
+    <!-- https://stackoverflow.com/questions/42497479/uncaught-referenceerror-exports-is-not-defined-in-filed-generated-by-typescript -->
+    <!-- https://github.com/Microsoft/TypeScript/issues/15795 -->
+    <script> var exports = {}; </script>
+    <script src="LoginController.js"></script>
+</head>
+<body id="body" class="w3-small">
+
+<div class="w3-container w3-blue">
+    <h2>Login</h2>
+</div>
+
+<div id="errorPanel" class="w3-panel w3-red" style="display:none">
+    <p id="errorMsg">[INJECTED]</p>
+</div>
+
+<div class="w3-container">
+    <label for="username">Username:</label>
+    <input id="username" class="w3-input w3-border" type="text">
+    <label for="password">Password:</label>
+    <input id="password" class="w3-input w3-border" type="text">
+    <label for="configDir">Configuration Directory:</label>
+    <!-- Note that if the input file button is not hidden, it's label will still be "Choose File" -->
+    <div class="w3-display-container">
+        <input id="configDir" class="w3-input w3-border" type="text" readonly>
+        <button id="selectDir" class="w3-button w3-gray w3-display-right">...</button>
+    </div>
+    <input id="fileInput" style="display:none" type="file" nwdirectory
+           nwdirectorydesc="Select configuration directory">
+    <button id="next" class="w3-button w3-blue w3-margin-top w3-right">Next</button>
+</div>
+
+</body>
+
+</html>

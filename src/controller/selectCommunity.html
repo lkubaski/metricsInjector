@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>[TITLE]</title>
+    <link rel="stylesheet" href="../../css/w3.css">
+    <link rel="stylesheet" href="../../css/nw.css">
+    <script> var exports = {}; </script>
+    <script src="SelectCommunityController.js"></script>
+</head>
+<body id="body" class="w3-small">
+
+<div class="w3-container w3-blue">
+<h2>Select a community</h2>
+</div>
+
+<div id="errorPanel" class="w3-panel w3-red" style="display:none">
+<p id="errorMsg">[INJECTED]</p>
+</div>
+
+<div class="w3-container">
+<label for="community">Community:</label>
+<select id="community" class="w3-select">
+    <option value="choose" disabled selected>Choose a community</option>
+    <!--
+    <option value="1">Community 1</option>
+    <option value="2">Community 2</option>
+    -->
+    </select>
+    <button id="next" class="w3-button w3-blue w3-margin-top w3-right">Next</button>
+</div>
+
+</body>
+</html>
