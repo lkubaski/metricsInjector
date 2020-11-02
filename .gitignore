@@ -1,6 +1,7 @@
-/.idea/*
-/node_modules/*
-/output/*
+.idea/*
+node_modules/*
+output/*
+src/**/*.js
 .DS_Store
 # This file is too large to be commited in git:
 nwjs.app
