@@ -26,6 +26,10 @@ build() {
   if [ ! -d "./node_modules" ]; then
     npm install
   fi
+  if [ ! -d "nwjs.app" ]; then
+    echo "FATAL error: couldn't find nwjs.app. Please download it from https://nwjs.io/downloads/"
+    exit 0
+  fi
   tsc # typescript compiler
   mkdir -p "./output"
   cp ./resources/documentation.pdf ./output
