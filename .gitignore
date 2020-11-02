@@ -1,0 +1,7 @@
+/.idea/*
+/node_modules/*
+/output/*
+.DS_Store
+# This file is too large to be commited in git:
+nwjs.app
+package-lock.json
