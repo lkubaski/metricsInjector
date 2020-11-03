@@ -70,8 +70,6 @@ export class LogManager {
         let logger = isError ? console.error : console.log;
         logger.call(this, msg);
         fs.appendFileSync(this.logFilePath, commonUtils.dateToString(new Date(), true) + " " + msg + "\n", 'utf8');
-        //fs.appendFile(this.rootDir + '/logs.txt', commonUtils.dateToString(new Date(), true) + " " + msg + "\n", 'utf8', function() {
-        //});
     }
 
 }
