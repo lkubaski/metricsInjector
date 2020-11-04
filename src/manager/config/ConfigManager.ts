@@ -4,9 +4,9 @@ import {LogManager} from "../log/LogManager";
 
 export class ConfigManager {
     public static readonly NB_CONCURRENT_API_REQUESTS = 5;
-// 'true' means that logs will be in /Users/lkubaski/Library/Application Support/Salesforce_Communities_Metrics_Injecter/Default/logs.txt
+// 'true' means that logs will be in /Users/lkubaski/Library/Application Support/MetricsInjector/Default/logs.txt
 // 'false" means that logs will be in the current folder
-    public static readonly STORE_LOGS_IN_LIBRARY_DIR = true;
+    public static readonly STORE_LOGS_IN_LIBRARY_DIR = false;
 
     private readonly NADM_PATH;
     private readonly NMDM_PATH;

@@ -3,7 +3,7 @@ set -e
 
 BUNDLE="MetricsInjector" # should match the "name" field in package.json
 VERSION="1.0"
-TITLE="Salesforce Communities Metrics Injector ${VERSION}"
+TITLE="Salesforce Communities Metrics Injector"
 # http://docs.nwjs.io/en/latest/For%20Users/Package%20and%20Distribute/
 OUTPUT_APP_NAME="${BUNDLE}.app"
 
